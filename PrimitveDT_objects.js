@@ -1,4 +1,4 @@
-//Primitve Datatypes - null nmber symbol string boolean bigint undefined
+//Primitve Datatypes -  null nmber symbol string boolean bigint undefined
 let a= null;
 let b=324;
 let c=true;//can also be false
