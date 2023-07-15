@@ -1,5 +1,5 @@
 //Q1- Add a number to a string variable
-let a = "Harshal"
+let a = "manas"
 let b = 20
 console.log(a+b)
 
