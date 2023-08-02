@@ -4,5 +4,5 @@ hbd();
 hbd();
 
 function hbd(){
-    console.log("HBD Dear!!!!",username)
+    console.log("hi",username)
 }
