@@ -2,7 +2,7 @@
 let a= null;
 let b=324;
 let c=true;//can also be false
-let d=BigInt("898");
+let d=BigInt("89");
 let e="Harshal";
 let f=Symbol("Hello");
 let g
