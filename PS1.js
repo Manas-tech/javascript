@@ -7,7 +7,7 @@ console.log(a+b)
 console.log(typeof(a+b))
 
 const asp={
-    name:"Harshal",
+    name:"manas",
     section:1,
     isprincipal:false
 }
