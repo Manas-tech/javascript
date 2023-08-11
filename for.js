@@ -8,7 +8,7 @@
     }
 }*/
 
-let symbol=window.prompt("Enter any symbol");
+let symbol=window.prompt("Enter any  symbol");
 let rows=window.prompt("Enter rows");
 let col=window.prompt("Enter cols");
 
