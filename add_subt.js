@@ -1,4 +1,4 @@
-console.log("this program adds threee numbers")
+console.log("this  program adds threee numbers")
 function addthreenumbers(a,b,c){
     return a+b+c;
 }
